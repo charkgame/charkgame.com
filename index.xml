@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Online Games on CharkGame | Play Now!</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Free Online Games on CharkGame | Play Now!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Sep 2025 22:27:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Larry World</title>
+      <link>http://localhost:1313/posts/larry-world/</link>
+      <pubDate>Sat, 06 Sep 2025 22:27:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/larry-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brainrot Evolution:2048 Merge Fight</title>
+      <link>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</link>
+      <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CHARK by protzz</title>
+      <link>http://localhost:1313/posts/chark-by-protzz/</link>
+      <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chark-by-protzz/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
