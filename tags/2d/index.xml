@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2D on Free Online Games on CharkGame | Play Now!</title>
-    <link>http://localhost:1313/tags/2d/</link>
+    <link>https://charkgame.com/tags/2d/</link>
     <description>Recent content in 2D on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Sep 2025 16:32:55 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://charkgame.com/tags/2d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brainrot Evolution:2048 Merge Fight</title>
-      <link>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</link>
+      <link>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</guid>
+      <guid>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</guid>
       <description></description>
     </item>
     <item>
       <title>CHARK by protzz</title>
-      <link>http://localhost:1313/posts/chark-by-protzz/</link>
+      <link>https://charkgame.com/posts/chark-by-protzz/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chark-by-protzz/</guid>
+      <guid>https://charkgame.com/posts/chark-by-protzz/</guid>
       <description></description>
     </item>
   </channel>
