@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Funny on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/tags/funny/</link>
+    <link>http://localhost:1313/tags/funny/</link>
     <description>Recent content in Funny on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Sep 2025 12:48:21 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/tags/funny/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/funny/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clicker Heroes</title>
-      <link>https://charkgame.com/posts/clicker-heroes/</link>
+      <link>http://localhost:1313/posts/clicker-heroes/</link>
       <pubDate>Mon, 08 Sep 2025 12:48:21 +0800</pubDate>
-      <guid>https://charkgame.com/posts/clicker-heroes/</guid>
+      <guid>http://localhost:1313/posts/clicker-heroes/</guid>
       <description></description>
     </item>
     <item>
       <title>Labubu-Merge-Puzzle</title>
-      <link>https://charkgame.com/posts/labubu-merge-puzzle/</link>
+      <link>http://localhost:1313/posts/labubu-merge-puzzle/</link>
       <pubDate>Mon, 08 Sep 2025 12:17:22 +0800</pubDate>
-      <guid>https://charkgame.com/posts/labubu-merge-puzzle/</guid>
+      <guid>http://localhost:1313/posts/labubu-merge-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>Labubu Merge</title>
-      <link>https://charkgame.com/posts/labubu-merge/</link>
+      <link>http://localhost:1313/posts/labubu-merge/</link>
       <pubDate>Mon, 08 Sep 2025 00:24:21 +0800</pubDate>
-      <guid>https://charkgame.com/posts/labubu-merge/</guid>
+      <guid>http://localhost:1313/posts/labubu-merge/</guid>
       <description></description>
     </item>
   </channel>

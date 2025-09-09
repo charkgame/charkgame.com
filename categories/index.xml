@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Sep 2025 13:29:06 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 18:27:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pixel</title>
-      <link>https://charkgame.com/categories/pixel/</link>
-      <pubDate>Mon, 08 Sep 2025 13:29:06 +0800</pubDate>
-      <guid>https://charkgame.com/categories/pixel/</guid>
+      <title>Clicker</title>
+      <link>http://localhost:1313/categories/clicker/</link>
+      <pubDate>Tue, 09 Sep 2025 18:27:45 +0800</pubDate>
+      <guid>http://localhost:1313/categories/clicker/</guid>
       <description></description>
     </item>
     <item>
       <title>Puzzle</title>
-      <link>https://charkgame.com/categories/puzzle/</link>
-      <pubDate>Mon, 08 Sep 2025 12:48:21 +0800</pubDate>
-      <guid>https://charkgame.com/categories/puzzle/</guid>
+      <link>http://localhost:1313/categories/puzzle/</link>
+      <pubDate>Tue, 09 Sep 2025 18:09:48 +0800</pubDate>
+      <guid>http://localhost:1313/categories/puzzle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pixel</title>
+      <link>http://localhost:1313/categories/pixel/</link>
+      <pubDate>Mon, 08 Sep 2025 13:29:06 +0800</pubDate>
+      <guid>http://localhost:1313/categories/pixel/</guid>
       <description></description>
     </item>
     <item>
       <title>Cute</title>
-      <link>https://charkgame.com/categories/cute/</link>
+      <link>http://localhost:1313/categories/cute/</link>
       <pubDate>Mon, 08 Sep 2025 00:24:21 +0800</pubDate>
-      <guid>https://charkgame.com/categories/cute/</guid>
+      <guid>http://localhost:1313/categories/cute/</guid>
       <description></description>
     </item>
     <item>
       <title>Casual</title>
-      <link>https://charkgame.com/categories/casual/</link>
+      <link>http://localhost:1313/categories/casual/</link>
       <pubDate>Sat, 06 Sep 2025 22:27:45 +0800</pubDate>
-      <guid>https://charkgame.com/categories/casual/</guid>
+      <guid>http://localhost:1313/categories/casual/</guid>
       <description></description>
     </item>
     <item>
       <title>Card Game</title>
-      <link>https://charkgame.com/categories/card-game/</link>
+      <link>http://localhost:1313/categories/card-game/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>https://charkgame.com/categories/card-game/</guid>
+      <guid>http://localhost:1313/categories/card-game/</guid>
       <description></description>
     </item>
   </channel>
