@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Free Online Games on CharkGame | Play Now!</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://charkgame.com/posts/</link>
     <description>Recent content in Posts on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Sep 2025 18:27:45 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://charkgame.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shleep</title>
-      <link>http://localhost:1313/posts/shleep/</link>
+      <link>https://charkgame.com/posts/shleep/</link>
       <pubDate>Tue, 09 Sep 2025 18:27:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/shleep/</guid>
+      <guid>https://charkgame.com/posts/shleep/</guid>
       <description></description>
     </item>
     <item>
       <title>Water Sort Puzzle</title>
-      <link>http://localhost:1313/posts/water-sort-puzzle/</link>
+      <link>https://charkgame.com/posts/water-sort-puzzle/</link>
       <pubDate>Tue, 09 Sep 2025 18:09:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/water-sort-puzzle/</guid>
+      <guid>https://charkgame.com/posts/water-sort-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>Connect Em All</title>
-      <link>http://localhost:1313/posts/connect-em-all/</link>
+      <link>https://charkgame.com/posts/connect-em-all/</link>
       <pubDate>Tue, 09 Sep 2025 17:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/posts/connect-em-all/</guid>
+      <guid>https://charkgame.com/posts/connect-em-all/</guid>
       <description></description>
     </item>
     <item>
       <title>Marble Quest</title>
-      <link>http://localhost:1313/posts/marble-quest/</link>
+      <link>https://charkgame.com/posts/marble-quest/</link>
       <pubDate>Mon, 08 Sep 2025 13:29:06 +0800</pubDate>
-      <guid>http://localhost:1313/posts/marble-quest/</guid>
+      <guid>https://charkgame.com/posts/marble-quest/</guid>
       <description></description>
     </item>
     <item>
       <title>Clicker Heroes</title>
-      <link>http://localhost:1313/posts/clicker-heroes/</link>
+      <link>https://charkgame.com/posts/clicker-heroes/</link>
       <pubDate>Mon, 08 Sep 2025 12:48:21 +0800</pubDate>
-      <guid>http://localhost:1313/posts/clicker-heroes/</guid>
+      <guid>https://charkgame.com/posts/clicker-heroes/</guid>
       <description></description>
     </item>
     <item>
       <title>Labubu-Merge-Puzzle</title>
-      <link>http://localhost:1313/posts/labubu-merge-puzzle/</link>
+      <link>https://charkgame.com/posts/labubu-merge-puzzle/</link>
       <pubDate>Mon, 08 Sep 2025 12:17:22 +0800</pubDate>
-      <guid>http://localhost:1313/posts/labubu-merge-puzzle/</guid>
+      <guid>https://charkgame.com/posts/labubu-merge-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>Labubu Merge</title>
-      <link>http://localhost:1313/posts/labubu-merge/</link>
+      <link>https://charkgame.com/posts/labubu-merge/</link>
       <pubDate>Mon, 08 Sep 2025 00:24:21 +0800</pubDate>
-      <guid>http://localhost:1313/posts/labubu-merge/</guid>
+      <guid>https://charkgame.com/posts/labubu-merge/</guid>
       <description></description>
     </item>
     <item>
       <title>Larry World</title>
-      <link>http://localhost:1313/posts/larry-world/</link>
+      <link>https://charkgame.com/posts/larry-world/</link>
       <pubDate>Sat, 06 Sep 2025 22:27:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/larry-world/</guid>
+      <guid>https://charkgame.com/posts/larry-world/</guid>
       <description></description>
     </item>
     <item>
       <title>Brainrot Evolution:2048 Merge Fight</title>
-      <link>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</link>
+      <link>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</guid>
+      <guid>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</guid>
       <description></description>
     </item>
     <item>
       <title>CHARK by protzz</title>
-      <link>http://localhost:1313/posts/chark-by-protzz/</link>
+      <link>https://charkgame.com/posts/chark-by-protzz/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chark-by-protzz/</guid>
+      <guid>https://charkgame.com/posts/chark-by-protzz/</guid>
       <description></description>
     </item>
   </channel>

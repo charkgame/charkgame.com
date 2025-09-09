@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casual on Free Online Games on CharkGame | Play Now!</title>
-    <link>http://localhost:1313/tags/casual/</link>
+    <link>https://charkgame.com/tags/casual/</link>
     <description>Recent content in Casual on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Sep 2025 17:18:18 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/casual/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://charkgame.com/tags/casual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Connect Em All</title>
-      <link>http://localhost:1313/posts/connect-em-all/</link>
+      <link>https://charkgame.com/posts/connect-em-all/</link>
       <pubDate>Tue, 09 Sep 2025 17:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/posts/connect-em-all/</guid>
+      <guid>https://charkgame.com/posts/connect-em-all/</guid>
       <description></description>
     </item>
     <item>
       <title>Larry World</title>
-      <link>http://localhost:1313/posts/larry-world/</link>
+      <link>https://charkgame.com/posts/larry-world/</link>
       <pubDate>Sat, 06 Sep 2025 22:27:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/larry-world/</guid>
+      <guid>https://charkgame.com/posts/larry-world/</guid>
       <description></description>
     </item>
   </channel>
