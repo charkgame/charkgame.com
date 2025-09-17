@@ -2,59 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puzzle on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/categories/puzzle/</link>
+    <link>http://localhost:1313/categories/puzzle/</link>
     <description>Recent content in Puzzle on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 11:51:45 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/categories/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Sep 2025 18:27:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fishdo</title>
+      <link>http://localhost:1313/posts/fishdo/</link>
+      <pubDate>Wed, 17 Sep 2025 18:27:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/fishdo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gun Match Screw</title>
+      <link>http://localhost:1313/posts/gun-match-screw/</link>
+      <pubDate>Wed, 17 Sep 2025 18:27:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/gun-match-screw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Watermelon Drop</title>
+      <link>http://localhost:1313/posts/watermelon-drop/</link>
+      <pubDate>Wed, 17 Sep 2025 18:27:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/watermelon-drop/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pack</title>
-      <link>https://charkgame.com/posts/pack/</link>
+      <link>http://localhost:1313/posts/pack/</link>
       <pubDate>Thu, 11 Sep 2025 11:51:45 +0800</pubDate>
-      <guid>https://charkgame.com/posts/pack/</guid>
+      <guid>http://localhost:1313/posts/pack/</guid>
       <description></description>
     </item>
     <item>
       <title>Last Chess Standing</title>
-      <link>https://charkgame.com/posts/last-chess-standing/</link>
+      <link>http://localhost:1313/posts/last-chess-standing/</link>
       <pubDate>Thu, 11 Sep 2025 11:50:45 +0800</pubDate>
-      <guid>https://charkgame.com/posts/last-chess-standing/</guid>
+      <guid>http://localhost:1313/posts/last-chess-standing/</guid>
       <description></description>
     </item>
     <item>
       <title>Water Sort Puzzle</title>
-      <link>https://charkgame.com/posts/water-sort-puzzle/</link>
+      <link>http://localhost:1313/posts/water-sort-puzzle/</link>
       <pubDate>Tue, 09 Sep 2025 18:09:48 +0800</pubDate>
-      <guid>https://charkgame.com/posts/water-sort-puzzle/</guid>
+      <guid>http://localhost:1313/posts/water-sort-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>Connect Em All</title>
-      <link>https://charkgame.com/posts/connect-em-all/</link>
+      <link>http://localhost:1313/posts/connect-em-all/</link>
       <pubDate>Tue, 09 Sep 2025 17:18:18 +0800</pubDate>
-      <guid>https://charkgame.com/posts/connect-em-all/</guid>
+      <guid>http://localhost:1313/posts/connect-em-all/</guid>
       <description></description>
     </item>
     <item>
       <title>Clicker Heroes</title>
-      <link>https://charkgame.com/posts/clicker-heroes/</link>
+      <link>http://localhost:1313/posts/clicker-heroes/</link>
       <pubDate>Mon, 08 Sep 2025 12:48:21 +0800</pubDate>
-      <guid>https://charkgame.com/posts/clicker-heroes/</guid>
+      <guid>http://localhost:1313/posts/clicker-heroes/</guid>
       <description></description>
     </item>
     <item>
       <title>Labubu-Merge-Puzzle</title>
-      <link>https://charkgame.com/posts/labubu-merge-puzzle/</link>
+      <link>http://localhost:1313/posts/labubu-merge-puzzle/</link>
       <pubDate>Mon, 08 Sep 2025 12:17:22 +0800</pubDate>
-      <guid>https://charkgame.com/posts/labubu-merge-puzzle/</guid>
+      <guid>http://localhost:1313/posts/labubu-merge-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>Brainrot Evolution:2048 Merge Fight</title>
-      <link>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</link>
+      <link>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</guid>
+      <guid>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casual on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/tags/casual/</link>
+    <link>http://localhost:1313/tags/casual/</link>
     <description>Recent content in Casual on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Sep 2025 11:52:45 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/tags/casual/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/casual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hollowspire</title>
-      <link>https://charkgame.com/posts/hollowspire/</link>
+      <link>http://localhost:1313/posts/hollowspire/</link>
       <pubDate>Thu, 11 Sep 2025 11:52:45 +0800</pubDate>
-      <guid>https://charkgame.com/posts/hollowspire/</guid>
+      <guid>http://localhost:1313/posts/hollowspire/</guid>
       <description></description>
     </item>
     <item>
       <title>Last Chess Standing</title>
-      <link>https://charkgame.com/posts/last-chess-standing/</link>
+      <link>http://localhost:1313/posts/last-chess-standing/</link>
       <pubDate>Thu, 11 Sep 2025 11:50:45 +0800</pubDate>
-      <guid>https://charkgame.com/posts/last-chess-standing/</guid>
+      <guid>http://localhost:1313/posts/last-chess-standing/</guid>
       <description></description>
     </item>
     <item>
       <title>Connect Em All</title>
-      <link>https://charkgame.com/posts/connect-em-all/</link>
+      <link>http://localhost:1313/posts/connect-em-all/</link>
       <pubDate>Tue, 09 Sep 2025 17:18:18 +0800</pubDate>
-      <guid>https://charkgame.com/posts/connect-em-all/</guid>
+      <guid>http://localhost:1313/posts/connect-em-all/</guid>
       <description></description>
     </item>
     <item>
       <title>Larry World</title>
-      <link>https://charkgame.com/posts/larry-world/</link>
+      <link>http://localhost:1313/posts/larry-world/</link>
       <pubDate>Sat, 06 Sep 2025 22:27:45 +0800</pubDate>
-      <guid>https://charkgame.com/posts/larry-world/</guid>
+      <guid>http://localhost:1313/posts/larry-world/</guid>
       <description></description>
     </item>
   </channel>

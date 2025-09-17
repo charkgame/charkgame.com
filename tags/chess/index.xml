@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chess on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/tags/chess/</link>
+    <link>http://localhost:1313/tags/chess/</link>
     <description>Recent content in Chess on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Sep 2025 11:50:45 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/tags/chess/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chess/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Last Chess Standing</title>
-      <link>https://charkgame.com/posts/last-chess-standing/</link>
+      <link>http://localhost:1313/posts/last-chess-standing/</link>
       <pubDate>Thu, 11 Sep 2025 11:50:45 +0800</pubDate>
-      <guid>https://charkgame.com/posts/last-chess-standing/</guid>
+      <guid>http://localhost:1313/posts/last-chess-standing/</guid>
       <description></description>
     </item>
     <item>
       <title>CHARK by protzz</title>
-      <link>https://charkgame.com/posts/chark-by-protzz/</link>
+      <link>http://localhost:1313/posts/chark-by-protzz/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>https://charkgame.com/posts/chark-by-protzz/</guid>
+      <guid>http://localhost:1313/posts/chark-by-protzz/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Incremental on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/tags/incremental/</link>
+    <link>http://localhost:1313/tags/incremental/</link>
     <description>Recent content in Incremental on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Sep 2025 18:27:45 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/tags/incremental/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/incremental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shleep</title>
-      <link>https://charkgame.com/posts/shleep/</link>
+      <link>http://localhost:1313/posts/shleep/</link>
       <pubDate>Tue, 09 Sep 2025 18:27:45 +0800</pubDate>
-      <guid>https://charkgame.com/posts/shleep/</guid>
+      <guid>http://localhost:1313/posts/shleep/</guid>
       <description></description>
     </item>
   </channel>

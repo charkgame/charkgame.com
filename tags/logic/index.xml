@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logic on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/tags/logic/</link>
+    <link>http://localhost:1313/tags/logic/</link>
     <description>Recent content in Logic on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Sep 2025 18:09:48 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/tags/logic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Sep 2025 18:27:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/logic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gun Match Screw</title>
+      <link>http://localhost:1313/posts/gun-match-screw/</link>
+      <pubDate>Wed, 17 Sep 2025 18:27:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/gun-match-screw/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Water Sort Puzzle</title>
-      <link>https://charkgame.com/posts/water-sort-puzzle/</link>
+      <link>http://localhost:1313/posts/water-sort-puzzle/</link>
       <pubDate>Tue, 09 Sep 2025 18:09:48 +0800</pubDate>
-      <guid>https://charkgame.com/posts/water-sort-puzzle/</guid>
+      <guid>http://localhost:1313/posts/water-sort-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>Connect Em All</title>
-      <link>https://charkgame.com/posts/connect-em-all/</link>
+      <link>http://localhost:1313/posts/connect-em-all/</link>
       <pubDate>Tue, 09 Sep 2025 17:18:18 +0800</pubDate>
-      <guid>https://charkgame.com/posts/connect-em-all/</guid>
+      <guid>http://localhost:1313/posts/connect-em-all/</guid>
       <description></description>
     </item>
     <item>
       <title>Brainrot Evolution:2048 Merge Fight</title>
-      <link>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</link>
+      <link>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>https://charkgame.com/posts/brainrot-evolution-2048-merge-fight/</guid>
+      <guid>http://localhost:1313/posts/brainrot-evolution-2048-merge-fight/</guid>
       <description></description>
     </item>
   </channel>

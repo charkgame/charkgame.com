@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roguelike on Free Online Games on CharkGame | Play Now!</title>
-    <link>https://charkgame.com/tags/roguelike/</link>
+    <link>http://localhost:1313/tags/roguelike/</link>
     <description>Recent content in Roguelike on Free Online Games on CharkGame | Play Now!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Sep 2025 16:32:55 +0800</lastBuildDate>
-    <atom:link href="https://charkgame.com/tags/roguelike/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/roguelike/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CHARK by protzz</title>
-      <link>https://charkgame.com/posts/chark-by-protzz/</link>
+      <link>http://localhost:1313/posts/chark-by-protzz/</link>
       <pubDate>Sat, 06 Sep 2025 16:32:55 +0800</pubDate>
-      <guid>https://charkgame.com/posts/chark-by-protzz/</guid>
+      <guid>http://localhost:1313/posts/chark-by-protzz/</guid>
       <description></description>
     </item>
   </channel>
